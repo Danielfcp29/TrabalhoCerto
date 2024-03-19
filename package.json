@@ -1,0 +1,25 @@
+{
+  "name": "trabalhocerto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielfcp29/TrabalhoCerto.git"
+  },
+  "author": "Daniel Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielfcp29/TrabalhoCerto/issues"
+  },
+  "homepage": "https://github.com/Danielfcp29/TrabalhoCerto#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mysql2": "^3.9.2"
+  }
+}
